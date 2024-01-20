@@ -1,3 +1,4 @@
+![logo](https://github.com/github-poojajadhav/github-poojajadhav/blob/main/1.png)
 <h1 align="center">Hi there I'M Pooja!✨</h1>
 <h3 align="center">A Passionate Data Analyst From India</h3>
 
