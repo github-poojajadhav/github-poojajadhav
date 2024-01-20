@@ -1,7 +1,7 @@
 <h1 align="center">Hi there I'M Pooja!✨</h1>
 <h3 align="center">A Passionate Data Analyst From India</h3>
 
-<img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" alt="Coding" width="400" height="400">
+<img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" alt="Coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=github-poojajadhav&label=Profile%20views&color=0e75b6&style=flat" alt="github-poojajadhav" /> </p>
 
